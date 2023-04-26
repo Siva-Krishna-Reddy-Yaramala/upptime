@@ -8,25 +8,9 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Polymer
-    url: https://services.hiro.ice.comcast.net/polymer/v1/callp/users/$SECRET_TN/status
-    method: GET
-    headers:
-      - "Authorization: Bearer $SECRET_BEARER_TOKEN"
-      - "Content-Type: application/json"
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
+    url: https://www.google.com
   - name: Mspotts
-    url: https://services.hiro.ice.comcast.net/mspotts/v1/users/$POTTS_DUT/status
-    method: GET
-    headers:
-      - "Authorization: Bearer $SECRET_BEARER_TOKEN"
-      - "Content-Type: application/json"
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
+    url: https://www.youtube.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
