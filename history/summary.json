@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "polymer",
     "status": "up",
-    "uptime": "66.09%",
-    "uptimeDay": "66.09%",
-    "uptimeWeek": "66.09%",
-    "uptimeMonth": "66.09%",
-    "uptimeYear": "66.09%",
+    "uptime": "66.11%",
+    "uptimeDay": "66.11%",
+    "uptimeWeek": "66.11%",
+    "uptimeMonth": "66.11%",
+    "uptimeYear": "66.11%",
     "time": 58,
     "timeDay": 58,
     "timeWeek": 58,
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-26": 449
+      "2023-04-26": 450
     }
   }
 ]
