@@ -17,7 +17,6 @@ sites:
       - 200
       - 201
       - 404
-    maxResponseTime: 10000
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
