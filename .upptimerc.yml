@@ -11,8 +11,8 @@ sites:
     url: https://services.hiro.ice.comcast.net/polymer/v1/callp/users/$SECRET_TN/status
     method: GET
     headers:
-      - “Authorization: Bearer $SECRET_BEARER_TOKEN”
-      - “Content-Type: application/json”
+      - "Authorization: Bearer $SECRET_BEARER_TOKEN"
+      - "Content-Type: application/json"
     expectedStatusCodes:
       - 200
       - 201
