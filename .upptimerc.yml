@@ -12,8 +12,8 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Polymer
-    url: https://services.hiro.ice.comcast.net/polymer/v1/callp/users/$SECRET_TN/status
     method: GET
+    url: https://services.hiro.ice.comcast.net/polymer/v1/callp/users/$SECRET_TN/status
     headers:
       - “Authorization: Bearer $SECRET_BEARER_TOKEN”
       - “Content-Type: application/json”
