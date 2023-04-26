@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.hiro.ice.comcast.net.ico",
     "slug": "polymer",
     "status": "down",
-    "uptime": "88.45%",
-    "uptimeDay": "88.45%",
-    "uptimeWeek": "88.45%",
-    "uptimeMonth": "88.45%",
-    "uptimeYear": "88.45%",
+    "uptime": "70.46%",
+    "uptimeDay": "70.46%",
+    "uptimeWeek": "70.46%",
+    "uptimeMonth": "70.46%",
+    "uptimeYear": "70.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-26": 119
+      "2023-04-26": 120
     }
   }
 ]
