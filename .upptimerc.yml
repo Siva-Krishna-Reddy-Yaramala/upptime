@@ -8,7 +8,7 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Polymer
-    url: https://www.google.com
+    url: https://services.hiro.ice.comcast.net/polymer/v1/callp/users/$SECRET_TN/status
   - name: Mspotts
     url: https://www.youtube.com
   - name: Test Broken Site
