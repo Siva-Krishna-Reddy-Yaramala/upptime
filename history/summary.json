@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 86,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "time": 85,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {}
   },
   {
@@ -28,38 +28,58 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
     "name": "Polymer",
-    "url": "https://services.hiro.ice.comcast.net/polymer/v1/callp/users/$SECRET_TN/status",
-    "icon": "https://icons.duckduckgo.com/ip3/services.hiro.ice.comcast.net.ico",
+    "url": "https://www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "polymer",
-    "status": "down",
-    "uptime": "61.95%",
-    "uptimeDay": "61.95%",
-    "uptimeWeek": "61.95%",
-    "uptimeMonth": "61.95%",
-    "uptimeYear": "61.95%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "66.09%",
+    "uptimeDay": "66.09%",
+    "uptimeWeek": "66.09%",
+    "uptimeMonth": "66.09%",
+    "uptimeYear": "66.09%",
+    "time": 58,
+    "timeDay": 58,
+    "timeWeek": 58,
+    "timeMonth": 58,
+    "timeYear": 58,
     "dailyMinutesDown": {
       "2023-04-26": 112
     }
   },
   {
     "name": "Mspotts",
-    "url": "https://services.hiro.ice.comcast.net/mspotts/v1/users/$POTTS_DUT/status",
-    "icon": "https://icons.duckduckgo.com/ip3/services.hiro.ice.comcast.net.ico",
+    "url": "https://www.youtube.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico",
     "slug": "mspotts",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 402,
+    "timeDay": 402,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
+    "dailyMinutesDown": {
+      "2023-04-26": 198
+    }
+  },
+  {
+    "name": "Test Broken Site",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "slug": "test-broken-site",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -72,27 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-26": 162
-    }
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-04-26": 413
+      "2023-04-26": 449
     }
   }
 ]
