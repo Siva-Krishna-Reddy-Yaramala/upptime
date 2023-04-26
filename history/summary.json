@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.hiro.ice.comcast.net.ico",
     "slug": "polymer",
     "status": "down",
-    "uptime": "0.51%",
-    "uptimeDay": "0.51%",
-    "uptimeWeek": "0.51%",
-    "uptimeMonth": "0.51%",
-    "uptimeYear": "0.51%",
+    "uptime": "3.62%",
+    "uptimeDay": "3.62%",
+    "uptimeWeek": "3.62%",
+    "uptimeMonth": "3.62%",
+    "uptimeYear": "3.62%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-26": 101
+      "2023-04-26": 112
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-26": 220
+      "2023-04-26": 235
     }
   }
 ]
