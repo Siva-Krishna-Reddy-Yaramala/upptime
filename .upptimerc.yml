@@ -17,6 +17,16 @@ sites:
       - 200
       - 201
       - 404
+  - name: Mspotts
+    url: https://services.hiro.ice.comcast.net/mspotts/v1/users/$potts_dut/status
+    method: GET
+    headers:
+      - "Authorization: Bearer $SECRET_BEARER_TOKEN"
+      - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
