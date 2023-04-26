@@ -18,7 +18,7 @@ sites:
       - 201
       - 404
   - name: Mspotts
-    url: https://services.hiro.ice.comcast.net/mspotts/v1/users/$potts_dut/status
+    url: https://services.hiro.ice.comcast.net/mspotts/v1/users/$POTTS_DUT/status
     method: GET
     headers:
       - "Authorization: Bearer $SECRET_BEARER_TOKEN"
