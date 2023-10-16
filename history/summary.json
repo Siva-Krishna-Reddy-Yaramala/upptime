@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2023-10-16": 77,
+      "2023-10-16": 1183,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -235,9 +235,9 @@
     "url": "https://www.youtube.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico",
     "slug": "mspotts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -247,6 +247,7 @@
     "timeMonth": 407,
     "timeYear": 376,
     "dailyMinutesDown": {
+      "2023-10-16": 0,
       "2023-04-26": 198
     }
   },
@@ -267,7 +268,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 77,
+      "2023-10-16": 1183,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
