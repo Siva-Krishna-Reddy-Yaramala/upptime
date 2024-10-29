@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 86,
-    "timeWeek": 112,
+    "timeDay": 131,
+    "timeWeek": 116,
     "timeMonth": 111,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 42,
-    "timeWeek": 289,
-    "timeMonth": 264,
-    "timeYear": 230,
+    "time": 224,
+    "timeDay": 685,
+    "timeWeek": 316,
+    "timeMonth": 276,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-28": 110,
+      "2024-10-29": 108,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -417,8 +418,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
-      "2023-10-31": 1440,
-      "2023-10-30": 1440
+      "2023-10-31": 1440
     }
   },
   {
@@ -427,16 +427,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico",
     "slug": "mspotts",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 240,
-    "timeWeek": 220,
-    "timeMonth": 222,
-    "timeYear": 275,
+    "timeDay": 275,
+    "timeWeek": 222,
+    "timeMonth": 223,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -456,7 +456,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-28": 110,
+      "2024-10-29": 108,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -819,8 +820,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
-      "2023-10-31": 1440,
-      "2023-10-30": 1440
+      "2023-10-31": 1440
     }
   }
 ]
